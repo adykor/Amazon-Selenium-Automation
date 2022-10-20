@@ -38,7 +38,7 @@ namespace Selenium_Automation
             SignIn.Click();
 
             IWebElement EmailField = driver.FindElement(By.Id("ap_email"));
-            EmailField.SendKeys("pewpew@abv.bg");
+            EmailField.SendKeys("mysweetstyle@it.moss");
 
             IWebElement ContinueButton = driver.FindElement(By.Id("continue"));
             ContinueButton.Click();
