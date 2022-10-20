@@ -1,4 +1,4 @@
-# Amazon Sign In Selenium Automation Test
+# Amazon Sign In Automation Test
 This is an automation testing program written in C# that utilizes Selenium and NUnit frameworks to assert that inputting an invalid email address while attempting to sign in to Amazon will result in a failure to log in and error message. As part of the testing, the program:
 * opens a Chrome browser window
 * navigates to the Amazon web page
